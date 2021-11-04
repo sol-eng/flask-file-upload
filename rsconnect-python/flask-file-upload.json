@@ -1,0 +1,11 @@
+{
+    "https://colorado.rstudio.com/rsc/": {
+        "server_url": "https://colorado.rstudio.com/rsc/",
+        "filename": "/usr/home/xu.fei/flask-file-upload",
+        "app_url": "https://colorado.rstudio.com/rsc/connect/#/apps/ab72e3cc-57ca-41a3-914d-f2ac5bd89235",
+        "app_id": "ab72e3cc-57ca-41a3-914d-f2ac5bd89235",
+        "app_guid": "ab72e3cc-57ca-41a3-914d-f2ac5bd89235",
+        "title": "flask-file-upload",
+        "app_mode": "python-api"
+    }
+}
