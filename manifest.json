@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "metadata": {
+    "appmode": "python-api",
+    "entrypoint": "app"
+  },
+  "locale": "en_US.UTF-8",
+  "python": {
+    "version": "3.9.6",
+    "package_manager": {
+      "name": "pip",
+      "version": "21.2.3",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "6f015f6da62f1f28cfa5980e3033b68c"
+    },
+    ".gitignore": {
+      "checksum": "f5858d86cdc02417b0a3420b5fd5fb94"
+    },
+    "LICENSE": {
+      "checksum": "a1d4bba966e9014578a6b06b15b7a723"
+    },
+    "README.md": {
+      "checksum": "76a408aaeb151792fa37659ddd85aa59"
+    },
+    "app.py": {
+      "checksum": "1c844e517c96d74f807e07b245c85be3"
+    },
+    "templates/index.html": {
+      "checksum": "453dc13e4d6d8512f22161a082bb1ff9"
+    },
+    "uploads/.gitkeep": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    }
+  }
+}
